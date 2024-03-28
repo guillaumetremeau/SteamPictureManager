@@ -1,0 +1,23 @@
+{
+  "name": "steampicturemanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumetremeau/SteamPictureManager.git"
+  },
+  "author": "Guillaume Tremeau (tremeauguillaume@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaumetremeau/SteamPictureManager/issues"
+  },
+  "homepage": "https://github.com/guillaumetremeau/SteamPictureManager#readme",
+  "devDependencies": {
+    "electron": "^29.1.6"
+  }
+}
